@@ -1,0 +1,399 @@
+{
+	"taille" : "13",
+	"npc" : [{
+			"nom" : "peter",
+			"url" : "barbare1.png",
+			"x" : 15,
+			"y" : 15,
+			"direction" : "DIRECTION.BAS",
+			"texte" : [{"m1":"Bienvenue dans le monde de Lorem Ipsum, On se bat!? LIVE",
+						"m2":"salut toi!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "monde",
+			"programonL":[{
+				"nom" : "DanielMath",
+				"url" : "eliwood.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "BernardMath",
+				"url" : "npc2.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Android",
+				"rareter" : "RARE.COMMON"
+				}],
+			"combat" : "true"
+		}, {
+			"nom" : "jaques",
+			"url" : "zabusavn4.png",
+			"x" : 12,
+			"y" : 10,
+			"direction" : "DIRECTION.BAS",
+			"texte" :  [{"m1":"Bienvenue dans le monde de Lorem Ipsum, tu es nouveau ici? Si tu veux attraper des programons! oui oui des programon! va te battre dans le champ derriere moi, et quand tu en recontre un, utilise ta usb1ko!",
+						"m2":"salut toi!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "monde",
+			"combat" : "false"
+		}, {
+			"nom" : "andree",
+			"url" : "cool2.png",
+			"x" : 5,
+			"y" : 5,
+			"direction" : "DIRECTION.BAS",
+			"texte" :  [{"m1":"Salut, tu aimerais utiliser tes items dans ton sac, les potions permet de regagner la vie à tes programons, l'item leur redonne vie. Le reste est a toi de le découvrir",
+						"m2":"adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "monde",
+			"combat" : "false"
+		}, {
+			"nom" : "paul",
+			"url" : "alex.png",
+			"x" : 20,
+			"y" : 20,
+			"direction" : "DIRECTION.BAS",
+			"texte" :  [{"m1":"Bienvenue dans la maison 1, Y'a rien icite a part que tu repars par la porte derriere toi",
+						"m2":"salut toi!, tu es encore la!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Perdu?! je t'ai déjà dis que tu avais rien a faire ici Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "monde",
+			"combat" : "false"
+		},{
+			"nom" : "paul",
+			"url" : "alex.png",
+			"x" : 5,
+			"y" : 5,
+			"direction" : "DIRECTION.BAS",
+			"texte" :  [{"m1":"Dégage!, consectetur adipiscing elit. Phasellus orci nulla",
+						"m2":"Qu'est-ce que j'ai dit!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Je serais meilleur que toi que tu le veuille ou non! sed adipiscing quam varius et. "
+						}],
+			"endroit" : "maison1",
+			"combat" : "false"
+		},{
+			"nom" : "mercenaire1",
+			"url" : "01.png",
+			"x" : 1,
+			"y" : 25,
+			"direction" : "DIRECTION.BAS",
+			"texte" :  [{"m1":"Orci nulla!, Bienvenue dans le gym1, va confontrer celui au cheveux blond! et gagne son badge!",
+						"m2":"salut! tu as gagné le badge de Jean-christophe?,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Alors ça avance tes badges ,quam varius et. "
+						}],
+			"endroit" : "gym1",
+			"combat" : "false"
+		},{
+			"nom" : "mercenaire2",
+			"url" : "03bis.png",
+			"x" : 1,
+			"y" : 3,
+			"direction" : "DIRECTION.BAS",
+			"texte" :  [{"m1":"Qu'est ce que tu fais ici! tu viens voler le BOSS?!",
+						"m2":"qu'est-ce que tu fais ici!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "gym1",
+			"programonL":[{
+				"nom" : "DanielMath",
+				"url" : "eliwood.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "BernardMath",
+				"url" : "npc2.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Android",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "petitGabriel",
+				"url" : "FLAKECREATION1.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Adf",
+				"rareter" : "RARE.UNCOMMON"
+				}],
+			"combat" : "true"
+		},{
+			"nom" : "mercenaire3",
+			"url" : "03bis.png",
+			"x" : 11,
+			"y" : 3,
+			"direction" : "DIRECTION.BAS",
+			"texte" : [{"m1":"Qu'est ce que tu fais ici! tu viens voler le BOSS?!",
+						"m2":"qu'est-ce que tu fais ici!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "gym1",
+			"programonL":[{
+				"nom" : "DanielMath",
+				"url" : "eliwood.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "BernardMath",
+				"url" : "npc2.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Android",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "petitGabriel",
+				"url" : "FLAKECREATION1.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Adf",
+				"rareter" : "RARE.UNCOMMON"
+				}],
+			"combat" : "true"
+		},{
+			"nom" : "mercenaire4",
+			"url" : "01.png",
+			"x" : 20,
+			"y" : 25,
+			"direction" : "DIRECTION.BAS",
+			"texte" : [{"m1":"Qu'est ce que tu fais ici! tu viens voler le BOSS?!",
+						"m2":"qu'est-ce que tu fais ici!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "gym1",
+			"programonL":[{
+				"nom" : "DanielMath",
+				"url" : "eliwood.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "BernardMath",
+				"url" : "npc2.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Android",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "Charles",
+				"url" : "!$image.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Web",
+				"rareter" : "RARE.UNCOMMON"
+				}],
+			"combat" : "true"
+		},{
+			"nom" : "mercenaire5",
+			"url" : "01.png",
+			"x" : 25,
+			"y" : 31,
+			"direction" : "DIRECTION.BAS",
+			"texte" : [{"m1":"Qu'est ce que tu fais ici! tu viens voler le BOSS?!",
+						"m2":"qu'est-ce que tu fais ici!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "gym1",
+			"programonL":[{
+				"nom" : "DanielMath",
+				"url" : "eliwood.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "BernardMath",
+				"url" : "npc2.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Android",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "Eduard",
+				"url" : "dont.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.UNCOMMON"
+				}],
+			"combat" : "true"
+		},{
+			"nom" : "mercenaire6",
+			"url" : "01.png",
+			"x" : 23,
+			"y" : 13,
+			"direction" : "DIRECTION.BAS",
+			"texte" : [{"m1":"Qu'est ce que tu fais ici! tu viens voler le BOSS?!",
+						"m2":"qu'est-ce que tu fais ici!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "gym1",
+			"programonL":[{
+				"nom" : "DanielMath",
+				"url" : "eliwood.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "BernardMath",
+				"url" : "npc2.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Android",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "Philippe",
+				"url" : "choujimodif10it1kv0qq.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.UNCOMMON"
+				}],
+			"combat" : "true"
+		},{
+			"nom" : "mercenaire7",
+			"url" : "01.png",
+			"x" : 24,
+			"y" : 8,
+			"direction" : "DIRECTION.BAS",
+			"texte" : [{"m1":"Qu'est ce que tu fais ici! tu viens voler le BOSS?!",
+						"m2":"qu'est-ce que tu fais ici!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "gym1",
+			"programonL":[{
+				"nom" : "DanielMath",
+				"url" : "eliwood.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "BernardMath",
+				"url" : "npc2.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Android",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "Philippe",
+				"url" : "choujimodif10it1kv0qq.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.UNCOMMON"
+				}],
+			"combat" : "true"
+		},{
+			"nom" : "Boss mercernaire",
+			"url" : "cloud2_sadland.png",
+			"x" : 16,
+			"y" : 9,
+			"direction" : "DIRECTION.BAS",
+			"texte" : [{"m1":"IM THE BOSS JC! YOU BETTER RUN! OR ILL KILL ALL UR LITTLE PUPETS!",
+						"m2":"qu'est-ce que tu fais ici!,  consectetur adipiscing elit. Phasellus orci nulla",
+						"m3":"ok!? stu veux!,Etiam vulputate tellus dolor, sed adipiscing quam varius et. "
+						}],
+			"endroit" : "gym1",
+			"programonL":[{
+				"nom" : "DanielMath",
+				"url" : "eliwood.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "BernardMath",
+				"url" : "npc2.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "Android",
+				"rareter" : "RARE.COMMON"
+				},{
+				"nom" : "Jean-christophe",
+				"url" : "Adam.png",
+				"maxX" : 5,
+				"minX" : 5,
+				"maxY" : 5,
+				"minY" : 5,
+				"endroit" : "listprogramon",
+				"type" : "C++",
+				"rareter" : "RARE.RARE"
+				}],
+			"combat" : "true"
+		}
+	]
+}

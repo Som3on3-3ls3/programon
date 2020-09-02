@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<title>mini-programon</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<div><h1>PROGRAMON! attrapez les tous! PROGRAMON!</h1></div>
+		<div class="sectionJeu">
+			<!-- l'ordre d'appel des fichiers est importants, tooujours faire appel au fichier classe avant les fichiers qui les utilises -->
+			<script type="text/javascript" src="js/classes/constante.js"></script>
+			<script type="text/javascript" src="js/classes/Tileset.js"></script>
+			<script type="text/javascript" src="js/classes/personnage.js"></script>
+			<script type="text/javascript" src="js/classes/Map.js"></script>
+			<script type="text/javascript" src="js/jsonRequest.js"></script>
+			<script type="text/javascript" src="js/json2.js"></script>
+			<link rel="stylesheet" type="text/css" href="css/style.css" />
+			<!--[if lt IE 9]><script type="text/javascript" src="js/excanvas.compiled.js"></script><![endif]-->
+			<script type="text/javascript" src="js/jeu.js"></script>
+
+			<canvas id="canvas">jeu supporté avec chrome, mozilla, IE 9 et +	</canvas>
+		</div>
+	</body>
+</html>
